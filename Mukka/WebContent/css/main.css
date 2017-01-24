@@ -1,0 +1,74 @@
+body{
+	
+}
+
+#mukka {
+	position: absolute;
+	height: 64px;
+	width: 64px;
+	background-image: url('../images/cow_icon.png');
+	background-size: cover;	
+}
+
+.key {
+	position: absolute;
+	height: 64px;
+	width: 64px;
+	background-image: url('../images/golden_key_2.png');
+	background-size: cover;	
+}
+
+.door {
+	position: absolute;
+	height: 64px;
+	width: 64px;
+	background-image: url('../images/wooden_door.png');
+	background-size: cover;	
+}
+
+.cannon {
+	position: absolute;
+	height: 64px;
+	width: 64px;
+	background-size: cover;	
+}
+
+.dir0 {
+	background-image: url('../images/cannon-right.png');
+}
+
+.dir1 {
+	background-image: url('../images/cannon-up.jpg');
+}
+
+.dir2 {
+	background-image: url('../images/cannon-left.png');
+}
+
+.dir3 {
+	background-image: url('../images/cannon-down.png');
+}
+
+.bullet {
+	position: absolute;
+	height: 16px;
+	width: 16px;
+	background-image: url('../images/bullet.png');
+	background-size: cover;	
+}
+
+#content {
+	
+}
+
+.wallBlock {
+	background-image: url('../images/wall.jpg');
+	height: 64px;
+	width: 64px;
+	position: absolute;
+}
+
+body {
+	background-image: url("../images/background.jpg");
+	repeat: repeat;
+}
